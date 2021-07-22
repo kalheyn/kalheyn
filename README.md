@@ -1,4 +1,4 @@
-## Hi there, I'm **[Kal Heyn](https://www.linkedin.com/in/kalheyn/)** :wave:
+## Hi there, I'm **[Kal](https://www.linkedin.com/in/kalheyn/)** :wave:
 I m a Business Strategy Analyst at Adobe.
 I have always had a passion for software development ever since taking Intro to Computer Programming in Java at the Ohio State University. I love learning "languages" that allow you to create, such as guitar, Spanish, and Java. 
 
