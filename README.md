@@ -35,6 +35,7 @@ I have always had a passion for software development ever since taking Intro to 
 <a href="https://github.com/kalheyn/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalheyn" alt=".." />
 </a>
+
 <a href="https://github.com/kalheyn/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalheyn&layout=compact" alt=".."  />
 </a>
