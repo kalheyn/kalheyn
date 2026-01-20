@@ -18,18 +18,18 @@ I have always had a passion for software development ever since taking Intro to 
 
 - **Competitive Programming**: [Hackerrank](https://www.hackerrank.com/kalheyn)
 
-**Here are some facts about me :**
+**Here are some facts about me:**
 
-- 🔭 I’m currently a Business Strategy Analyst at Adobe
+- 🔭 I’m an Ex-Business Strategy Analyst at Adobe
 - 🌱 I’m currently reviewing Object Oriented Programming in Java
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with applying Java in real-world application
+- 🤔 I’m looking for help with applying Java in real-world applications
 - 💬 Ask me about my work as a statistics TA
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalheyn/), [Gmail](kalheyn@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I myself taught Hebrew in college
 
-**Github Stats :**
+**Github Stats:**
 
 <a href="https://github.com/kalheyn/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kalheyn" alt=".." />
